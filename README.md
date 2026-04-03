@@ -5,10 +5,7 @@ This repository contains step-by-step instructions for conducting the
 **Meso-COMPACT two-photon (2P) imaging experiment**.
 
 ## What’s included
-- System setup and alignment
-- Experimental workflow
-- Data acquisition steps
-- Troubleshooting notes
+- [Experimental workflow](note/Meso-COMPACT-2P experimental workflow.md)
 
 ## Origin
 Originally prepared as an internal lab demo
