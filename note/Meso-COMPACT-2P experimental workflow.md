@@ -1,5 +1,7 @@
 Meso-COMPACT-2P experimental workflow
 
+For detailed step-by-step operation, please download this [Standard Operating Procedure for  Meso-2P COMPACT System](url)
+
 Step 1: SLM initialization
 <img width="2560" height="1440" alt="01_SLM initialization in new Matlab" src="https://github.com/user-attachments/assets/3294995c-6745-46f4-be77-0708e209c34e" />
 
