@@ -1,4 +1,4 @@
-Meso-COMPACT-2P Experimental workflow
+Meso-COMPACT-2P experimental workflow
 
 Step 1: SLM initialization
 <img width="2560" height="1440" alt="01_SLM initialization in new Matlab" src="https://github.com/user-attachments/assets/3294995c-6745-46f4-be77-0708e209c34e" />
