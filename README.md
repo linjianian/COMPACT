@@ -16,7 +16,7 @@ A manuscript describing Meso-COMPACT is currently in preparation.
 
 If you use concepts, hardware designs, or principles originating from the original COMPACT system, please cite the following published work:
 
-Wei, B., Wang, C., Cheng, Z., Lai, B., Gan, W. B., & Cui, M. (2021). Clear optically matched panoramic access channel technique (COMPACT) for large-volume deep brain imaging. Nature methods, 18(8), 959-964. [https://doi.org/10.1038/s41592-021-01230-3](https://doi.org/10.1038/s41592-021-01230-3)
+Wei, B., Wang, C., Cheng, Z., Lai, B., Gan, W. B., & Cui, M. (2021). Clear optically matched panoramic access channel technique (COMPACT) for large-volume deep brain imaging. Nature methods, 18(8), 959-964. [link](https://doi.org/10.1038/s41592-021-01230-3)
 
 Citation information for the Meso-COMPACT system will be added here upon publication.
 
