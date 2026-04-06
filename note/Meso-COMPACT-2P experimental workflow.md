@@ -1,7 +1,7 @@
 Meso-COMPACT-2P experimental workflow
 
 For detailed step-by-step operation, please download this [Standard Operating Procedure for  Meso-2P COMPACT System](/note/SOP_Meso-COMPACT-2P.pptx). Or 
-Prefer a text-only, step-by-step protocol? See the plain Markdown version here [MESO-COMPACT-2P System Operation Protocol](note/Meso-COMPACT-2P%20SOP.md)
+Prefer a text-only, step-by-step protocol? See the plain Markdown version here [MESO-COMPACT-2P System Operation Protocol](/note/Meso-COMPACT-2P%20SOP.md)
 
 
 Step 1: SLM initialization
