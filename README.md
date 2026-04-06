@@ -1,6 +1,7 @@
+# COMPACT
+<img width="720" height="500" alt="image" src="https://github.com/user-attachments/assets/65bc57e4-9991-4748-a6e3-0f80937281aa" />
 
- COMPACT Experiment Instructions
-
+## COMPACT Experiment Instructions
 This repository contains step-by-step instructions for conducting the
 **COMPACT imaging experiment**.
 
