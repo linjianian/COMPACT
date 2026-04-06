@@ -9,5 +9,16 @@ This repository contains step-by-step instructions for conducting the
 - [Meso-COMPACT-2P system alignment protocol](note/Meso-COMPACT-2P%20system%20alignment%20protocol.md)
 - [Meso-COMPACT-2P experimental workflow](note/Meso-COMPACT-2P%20experimental%20workflow.md)
 
+
+## Reference
+The **Meso-COMPACT** system described in this repository is an extension and evolution of the previously published COMPACT system.  
+A manuscript describing Meso-COMPACT is currently in preparation.
+
+If you use concepts, hardware designs, or principles originating from the original COMPACT system, please cite the following published work:
+
+Wei, B., Wang, C., Cheng, Z., Lai, B., Gan, W. B., & Cui, M. (2021). Clear optically matched panoramic access channel technique (COMPACT) for large-volume deep brain imaging. Nature methods, 18(8), 959-964. [https://doi.org/10.1038/s41592-021-01230-3](https://doi.org/10.1038/s41592-021-01230-3)
+
+Citation information for the Meso-COMPACT system will be added here upon publication.
+
 ## Origin
 Originally prepared as an internal lab demo
