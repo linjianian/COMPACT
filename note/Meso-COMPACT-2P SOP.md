@@ -1,4 +1,4 @@
-# System Operation Protocol (Post-Alignment)
+# System Operation Protocol
 
 This document describes how to operate the COMPACT system after optical and mechanical alignment is completed. It focuses on hardware setup, control software, and imaging procedures.
 
