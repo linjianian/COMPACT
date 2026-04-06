@@ -5,6 +5,7 @@ This repository contains step-by-step instructions for conducting the
 **COMPACT imaging experiment**.
 
 ## What’s included
+- [Meso-COMPACT-2P system alignment](note/Meso-COMPACT-2P%20system%20alignment.md)
 - [Meso-COMPACT-2P experimental workflow](note/Meso-COMPACT-2P%20experimental%20workflow.md)
 
 ## Origin
