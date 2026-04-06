@@ -1,14 +1,5 @@
 # COMPACT Mouse Surgery Procedure
 
-**Author:** Wei-Hsuan Lu
-
----
-
-> **Figures:** Placeholder figures are included below.  
-> Replace image paths (e.g., `figures/fig_01_syringe_assembly.png`) with actual files in your GitHub repository.
-
----
-
 ## Part I. Viral Injection & Head Bar Fixation
 
 ### 1. Syringe Assembly and Viral Loading
