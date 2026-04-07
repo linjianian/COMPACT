@@ -1,4 +1,4 @@
-# COMPACT Surgery Procedure
+# Meso-COMPACT-2P Surgery Procedure
 
 ## Part I. Viral Injection & Head Bar Fixation
 
