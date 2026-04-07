@@ -25,5 +25,19 @@ https://doi.org/10.1038/s41592-021-01230-3
 
 Citation information for the Meso-COMPACT system will be added here upon publication.
 
+## Acknowledgements
+
+This work builds upon the **original COMPACT system**, invented by **Meng Cui**, whose foundational contributions in optical design enabled minimally invasive, deep-brain optical access.
+
+The current **Meso-COMPACT** system was developed through a collaborative effort. The following contributors are authors of the forthcoming manuscript describing this work:
+
+- **Yuting Li** — *Co-first author*; overall system design and implementation; software architecture and control code development  
+- **Zongyue Cheng** — *Co-first author*; animal preparation and surgical execution  
+- **Chenmao Wang** — software development and code contributions  
+- **Jianian Lin** — magnetic disk design, code contributions, and surgical method improvements  
+- **Meng Cui** — *Corresponding author*; inventor of COMPACT; optical system design and experimental supervision  
+
+In addition, **Wei-Hsuan Lu** contributed substantially to the development and refinement of surgical methods and experimental protocols documented in this repository. Wei-Hsuan Lu was supported by **Prof. Shi-Wei Chu’s lab at National Taiwan University** and the **National Science and Technology Council (NSTC, Taiwan)** to travel to Purdue University, where she received comprehensive training and participated in the full COMPACT experimental workflow.
+
 ## Origin
 Originally prepared as an internal lab demo
