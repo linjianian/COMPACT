@@ -1,5 +1,6 @@
 # COMPACT
-<img width="720" height="500" alt="image" src="https://github.com/user-attachments/assets/65bc57e4-9991-4748-a6e3-0f80937281aa" />
+<img width="720" height="500" alt="image" src="https://github.com/user-attachments/assets/1c6d29dc-cdbe-4ed7-8e5e-522861d25f15" />
+
 
 ## COMPACT Experiment Instructions
 This repository contains step-by-step instructions for conducting the
