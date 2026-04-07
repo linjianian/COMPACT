@@ -242,12 +242,14 @@
 
 ### Finalization
 
-![Figure 22. Finalized COMPACT implantation](figures/fig_22_finalization.png)
+<img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/29e4a4f2-03fb-4dae-96fb-fb560cbf84d5" />
 
 1. Raise tube and piston carefully, leaving capillary in place.
 2. Fill remaining head bar gaps with dental cement.
 3. Attach artificial cap.
 4. Recovery with cap for **2–4 weeks**.
+
+<img width="1000" height="625" alt="image" src="https://github.com/user-attachments/assets/a20cf2af-f7f5-4350-a33c-e4d7be54f487" />
 
 ---
 
@@ -267,30 +269,19 @@
 
 ### Closed-Ended Capillary Preparation
 
-![Figure 24. Closed-ended capillary preparation](figures/fig_24_closed_capillary_prep.png)
+#### Method 1: Thin UV Epoxy Seal
+<img width="1000" height="625" alt="image" src="https://github.com/user-attachments/assets/76fbc4e3-9cba-4a0a-aed3-c01a73ed0233" />
 
 1. Spread thin epoxy layer on stage.
 2. Touch 15 µm capillary vertically into epoxy.
 3. UV cure epoxy.
 4. Incubate in heater for ~12 hours.
 5. UV disinfect for **25–30 minutes** before use.
-
 **Resulting epoxy layer:** ~0.2–0.3 mm
 
----
+#### Method 2: Glass Disc Seal
 
-## Part IV. Closed-Ended Capillary Design
-
-### Method 1: Thin UV Epoxy Seal
-
-![Figure 25. UV epoxy–sealed capillary tip](figures/fig_25_uv_epoxy_tip.png)
-
-- Same procedure as above.
-- Final epoxy thickness: **0.2–0.3 mm**
-
-### Method 2: Glass Disc Seal
-
-![Figure 26. Glass disc capillary seal](figures/fig_26_glass_disc_tip.png)
+<img width="1000" height="680" alt="image" src="https://github.com/user-attachments/assets/a75be0a4-f665-4ac0-b865-c6e429e1ba3c" />
 
 1. Place glass disc (OD < capillary ID) on stage.
 2. Apply minimal epoxy to both sides.
