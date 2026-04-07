@@ -3,8 +3,7 @@
 ## Part I. Viral Injection & Head Bar Fixation
 
 ### 1. Syringe Assembly and Viral Loading
-
-![Figure 1. Syringe assembly and viral loading setup](figures/fig_01_syringe_assembly.png)
+<img width="350" height="550" alt="image" src="https://github.com/user-attachments/assets/e1692401-4c2d-4281-95a6-99792e7b1228" />
 
 1. Secure the injector onto the working stage using **three pieces of tape**.
 2. Prepare the pre-made needle tip (broken needle) and fill it with oil.
@@ -28,16 +27,12 @@
 
 ### 2. Mouse Anesthesia
 
-![Figure 2. Mouse anesthesia and positioning](figures/fig_02_mouse_anesthesia.png)
-
 - After anesthesia, gently pinch the tail or paw to confirm adequate anesthetic depth.
 - Moisten fur with ethanol (EtOH).
 
 ---
 
 ### 3. Clear the Skull
-
-![Figure 3. Skull exposure with bregma and lambda](figures/fig_03_skull_exposure.png)
 
 1. Shave the hair.
 2. Apply iodine to disinfect the scalp.
@@ -51,8 +46,6 @@
 
 ### 4. Mouse Anchoring
 
-![Figure 4. Mouse anchoring using ear bars and tooth bar](figures/fig_04_mouse_anchoring.png)
-
 1. Place a heating pad under the mouse and connect it to a temperature controller.
 2. Position **two auxiliary ear bars** at pits in front of the ears.
 3. Secure the mouse with a tooth bar connected to the anesthesia inhalation mask.
@@ -61,8 +54,6 @@
 ---
 
 ### 5. Calibration
-
-![Figure 5. Calibration at bregma and lambda](figures/fig_05_calibration.png)
 
 1. Mount the manipulation arm with the injector onto the surgery platform.
 2. Point the needle tip to **Bregma**:
@@ -75,8 +66,6 @@
 ---
 
 ### 6. Drilling
-
-![Figure 6. Skull drilling at injection sites](figures/fig_06_drilling.png)
 
 1. Raise the manipulation arm to avoid needle damage.
 2. Drill using a **0.5 mm drill bit** at marked sites.
@@ -92,7 +81,7 @@
 
 ### 7. Viral Injection
 
-![Figure 7. Viral injection procedure](figures/fig_07_viral_injection.png)
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/80bd1a3a-01b6-463b-9295-55d723b22b07" />
 
 1. Lower injector to the drilled site.
 2. Lower to target depth.
@@ -106,8 +95,6 @@
 
 ### 8. Mount the Head Bar
 
-![Figure 8. Head bar alignment and mounting](figures/fig_08_headbar_mounting.png)
-
 1. Disinfect head bar and actuator.
 2. Mount to mechanical arm and position above skull.
 3. Align:
@@ -118,7 +105,7 @@
 
 ### 9. Head Bar Positioning
 
-![Figure 9. Head bar positioning and screw sites](figures/fig_09_headbar_positioning.png)
+<img width="350" height="630" alt="image" src="https://github.com/user-attachments/assets/a414e8de-ab71-405b-9ca0-b39e9a712265" />
 
 1. Lower head bar onto skull.
 2. Mark **two screw locations**:
@@ -129,8 +116,7 @@
 ---
 
 ### 10. Screw Placement
-
-![Figure 10. Screw placement for head bar fixation](figures/fig_10_screw_placement.png)
+<img width="1000" height="500" alt="Untitled-3" src="https://github.com/user-attachments/assets/bbf39658-97cc-48ef-838c-ec1ee5070949" />
 
 1. Drill holes using a **0.7 mm drill bit**.
 2. Insert screws (~1.6 mm length):
@@ -141,8 +127,6 @@
 
 ### 11. Lower Head Bar Assembly
 
-![Figure 11. Lowering head bar and gap filling](figures/fig_11_headbar_lowering.png)
-
 1. Lower actuator + head bar onto skull.
 2. Head bar curvature should match skull surface.
 3. Inspect side fit.
@@ -151,8 +135,6 @@
 ---
 
 ### 12. Head Bar Fixation
-
-![Figure 12. Head bar fixation with dental cement](figures/fig_12_headbar_fixation.png)
 
 1. Apply Krazy Blue around head bar perimeter.
 2. Apply **dental cement (Contemporary Ortho-Jet, Lang Dental)**:
@@ -163,8 +145,6 @@
 
 ### 13. Seal Center Opening
 
-![Figure 13. Sealing center opening of head bar](figures/fig_13_center_seal.png)
-
 - Apply a **very thin layer** of Krazy Blue around the center opening.
 - Allow to dry completely.
 
@@ -172,16 +152,12 @@
 
 ### 14. Remove Actuator Assembly
 
-![Figure 14. Actuator removal](figures/fig_14_actuator_removal.png)
-
 - Carefully demount column + head bar from actuator.
 - Remove column screws.
 
 ---
 
 ### 15. Recovery Period
-
-![Figure 15. Post-surgical recovery](figures/fig_15_recovery.png)
 
 - Allow recovery for **2–3 days to 1 week**, depending on viral expression needs.
 
@@ -191,7 +167,8 @@
 
 ### Preparation
 
-![Figure 16. COMPACT insertion preparation](figures/fig_16_compact_prep.png)
+<img width="1000" height="400" alt="Untitled-3" src="https://github.com/user-attachments/assets/41dced2d-a42f-4307-b647-af864e3c8c45" />
+
 
 1. Maintain anesthesia with inhalation mask.
 2. Fix head bar to stage using side disks.
@@ -203,8 +180,6 @@
 
 ### Skull Opening
 
-![Figure 17. Skull opening for COMPACT insertion](figures/fig_17_skull_opening.png)
-
 - Drill circle using a **0.5 mm dental drill**.
 - Do **not** drill fully through.
 - Use a >30G needle to remove remaining bone membrane.
@@ -212,8 +187,7 @@
 ---
 
 ### Method 1: Vacuum Pump & Open-Ended Capillary
-
-![Figure 18. Vacuum-assisted tissue removal](figures/fig_18_vacuum_capillary.png)
+<img width="1000" height="220" alt="Untitled-3" src="https://github.com/user-attachments/assets/2cbe7420-a080-4292-893c-a590a9f4acfd" />
 
 1. Mount 15 µm thin-walled quartz capillary on metal rod.
 2. Align capillary with insertion site using eight reference lines.
@@ -229,7 +203,8 @@
 
 ### Method 2: Sharp-Pointed Needle
 
-![Figure 19. Sharp-pointed needle insertion](figures/fig_19_sharp_needle.png)
+<img width="60" height="300" alt="image" src="https://github.com/user-attachments/assets/532de704-d720-493e-b646-00abbe5667a8" />
+
 
 1. Mount sharp-pointed needle.
 2. Align with insertion site.
@@ -241,7 +216,7 @@
 
 ### Actuator Assembly
 
-![Figure 20. Actuator and capillary assembly](figures/fig_20_actuator_assembly.png)
+<img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/917475a4-fa17-417c-873d-7c0c61be2c3a" />
 
 1. Components:
    - Piston rod  
@@ -255,7 +230,8 @@
 
 ### Capillary Insertion
 
-![Figure 21. Closed-ended capillary insertion](figures/fig_21_capillary_insertion.png)
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/9645104e-7efc-41b1-bb5e-723adea43b96" />
+
 
 1. Align piston-capillary with previous insertion site.
 2. Insert closed-ended capillary at **10 µm/s**.
