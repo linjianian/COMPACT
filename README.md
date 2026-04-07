@@ -31,11 +31,11 @@ This work builds upon the **original COMPACT system**, invented by **Meng Cui**,
 
 The current **Meso-COMPACT** system was developed through a collaborative effort. The following contributors are authors of the forthcoming manuscript describing this work:
 
-- **Yuting Li** — *Co-first author*; overall system design and implementation; software architecture and control code development  
-- **Zongyue Cheng** — *Co-first author*; animal preparation and surgical execution  
+- **Yuting Li** — overall system design and implementation; software architecture and control code development  
+- **Zongyue Cheng** — animal preparation and surgical execution  
 - **Chenmao Wang** — software development and code contributions  
 - **Jianian Lin** — magnetic disk design, code contributions, and surgical method improvements  
-- **Meng Cui** — *Corresponding author*; inventor of COMPACT; optical system design and experimental supervision  
+- **Meng Cui** — inventor of COMPACT; optical system design and experimental supervision  
 
 In addition, **Wei-Hsuan Lu** contributed substantially to the development and refinement of surgical methods and experimental protocols documented in this repository. Wei-Hsuan Lu was supported by **Prof. Shi-Wei Chu’s lab at National Taiwan University** and the **National Science and Technology Council (NSTC, Taiwan)** to travel to Purdue University, where she received comprehensive training and participated in the full COMPACT experimental workflow.
 
