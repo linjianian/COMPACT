@@ -6,8 +6,8 @@ This repository contains step-by-step instructions for conducting the
 **COMPACT imaging experiment**.
 
 ## What’s included
+- [COMPACT surgery procedure](note/COMPACT%20surgery%20procedure.md)
 - [Meso-COMPACT-2P system alignment protocol](note/Meso-COMPACT-2P%20system%20alignment%20protocol.md)
-- [Meso-COMPACT-2P surgery procedure](/note/Meso-COMPACT%20surgery%20procedure.md)
 - [Meso-COMPACT-2P experimental workflow](note/Meso-COMPACT-2P%20experimental%20workflow.md)
 
 
